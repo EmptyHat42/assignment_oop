@@ -1,0 +1,24 @@
+{
+  "name": "assignment_oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmptyHat42/assignment_oop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EmptyHat42/assignment_oop/issues"
+  },
+  "homepage": "https://github.com/EmptyHat42/assignment_oop#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
